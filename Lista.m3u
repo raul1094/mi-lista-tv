@@ -1,12 +1,16 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Televisi%C3%B3n_P%C3%BAblica_Argentina_-_Logo_2021.png/320px-Televisi%C3%B3n_P%C3%BAblica_Argentina_-_Logo_2021.png" group-title="Aire",TV Pública
 https://tvp-live.cdn.m-online.net/tvp/live/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canal26.com/images/logo_canal26_header.png" group-title="Noticias",Canal 26
+#EXTINF:-1 tvg-logo="https://live-edge01.telecentro.net.ar/live/images/c26.png" group-title="Noticias",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://x.com/DSports" group-title="Deportes",Mi Canal de Deportes
-https://khala.skylivehd.com/global/dsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://s.france24.com/media/display/d44f8662-811c-11e8-a3cf-005056a97e3d/f24_logo_es.png" group-title="Noticias",France 24
+https://static.france24.com/live/f24_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://trece.com.py/" group-title="Deportes",Mi Canal de Deportes
-https://khala.skylivehd.com/dsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Red_Bull_TV_logo.svg/220px-Red_Bull_TV_logo.svg.png" group-title="Deportes",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/fl_os_pro_free/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_24_horas_logo.svg/300px-Canal_24_horas_logo.svg.png" group-title="Noticias",RTVE 24h
+https://rtve-live-nogeo.akamaized.net/hls/live/2043686/24h-nogeo/master.m3u8
