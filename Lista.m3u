@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Televisi%C3%B3n_P%C3%BAblica_Argentina_-_Logo_2021.png/320px-Televisi%C3%B3n_P%C3%BAblica_Argentina_-_Logo_2021.png" group-title="Aire",TV Pública
+https://tvp-live.cdn.m-online.net/tvp/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canal26.com/images/logo_canal26_header.png" group-title="Noticias",Canal 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_DE_TU_LOGO_AQUI" group-title="Deportes",Mi Canal de Deportes
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/CBS_logo.svg/512px-CBS_logo.svg.png" group-title="Cine",CBS Video
+https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest_video_5_0_352441.mp4?m=1780931418
