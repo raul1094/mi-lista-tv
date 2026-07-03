@@ -6,7 +6,7 @@ https://tvp-live.cdn.m-online.net/tvp/live/chunklist.m3u8
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://x.com/DSports" group-title="Deportes",Mi Canal de Deportes
-https://khala.skylivehd.com/global/dsports/index.m3u8?ip=45.4.255.229&token=3846c8cf4a894d4344263ac55a4678d87244c16d-5e-1783095135-1783041135
+https://khala.skylivehd.com/global/dsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://trece.com.py/" group-title="Deportes",Mi Canal de Deportes
-https://khala.skylivehd.com/dsports/index.m3u8?ip=45.4.255.229&token=3846c8cf4a894d4344263ac55a4678d87244c16d-5e-1783095135-1783041135
+https://khala.skylivehd.com/dsports/index.m3u8
