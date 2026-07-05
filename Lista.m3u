@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="logo.png" group-title="Noticias",TN
+#EXTINF:-1 tvg-logo="https://x.com/lanacioncom" group-title="Noticias",La Nacion+
 https://youtu.be/FEWZjXJ7M0c
 
 #EXTINF:-1 tvg-logo="logo.png" group-title="Deportes",DSports
