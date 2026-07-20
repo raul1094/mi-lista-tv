@@ -1,5 +1,21 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" tvg-id="Net TV" tvg-country="ARG" group-title="Argentina",Net TV
-https://SJaDv3i2fR9rX4GKeeULb0lk4wreQqzZRSqZTDNEhiwDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efACRmb3Pl/6e6aB/Uztm4bODvlMLEVsj/YIK8m1rnz5DR0rOzU5czt3G13FFqdQLzI0Xugsi+IIkwf4fiYpC2s8XE16UVxsPOqCkl2DYHugX3tcFyTrv/gUwLfQxDD5WQhkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfuecmA+l7XA2U3M4FZi8+GFOIRbJLHqkr4BWWhE67JQFoitfYNodSbZUKW3SnBudt9AmxBHZqLDe8LdcU+iGpskpQFmNxpLkonkyl7OppJx5JfvOa86jUnMONTdIEpW7HNxJjc4CK1nvX+ZhsNDamVPS/FBtOqMWxkWwxSocyreyUTnb1aoSakVxLBfGkE26t4/05SqI6cs/+bx66YxqNIxDYOHTzJIT8rx6L21YXf1zGPvZWqUdHBBnOmY/Q3lMN+CmAiYeOTuFarNrYIGYx4U0cQwzUPWR+OatWf+c33Cc82n7DoBvT537NzclCDi0G3bsiRCWEiiQ3JyDo4aNgkhjNjNy5tw7uydwR3P+KhedVLwHisS5GE9qj8IZ1qCSB7APIfm41sue9yBS1SDHVEuUZ6T8MsBoZrBebfFFwbz2aRyf3a+AwiE9qKxd0HZFaPl/nAlc+rTEoJ9Y3pM4jxUBsUfvX80JsRJBg+nrQT7FJr3oVE4EcNj6MJ1KwswgGPS8Ud/fejjLGKQv3gPxawUa/tqqmubqNG8D72liufvs8m4Fc+6oagYLF6gXY3vngVIkhJGF91Iikz9h/+x5tBYObtUVvpD0BWFLlRS0sEvYR+fzKnJmawxwlUZtCykYn37ZEj1KKBDpDp+QY3NFvitw5RY5LBKiUe3BtE/TmbzEEbQVX7xfUKzC2c0eOjPIX2wSBzPtlPN3VaLX4B3v4A3fEYd53d67y0T/VzWRm0m34w==
-#EXTINF:-1 tvg-name="Cronica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" tvg-id="Crnica TV" tvg-country="ARG" group-title="Argentina",Cronica TV
+ "name": "DEPORTES FOX SPORTS",
+        "samples": [
+            {
+                "name": "FOX SPORTS",
+                "url": "SJaDv3i2fR9rX4GKeeULb0lk4wreQqzZRSqZTDNEhiwDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efACRmb3Pl/6e6aB/Uztm4bODvlMLEVsj/YIK8m1rnz5DR0rOzU5czt3G13FFqdQLzI0Xugsi+IIkwf4fiYpC2s8XE16UVxsPOqCkl2DYHugX3tcFyTrv/gUwLfQxDD5WQhkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfuecmA+l7XA2U3M4FZi8+GFOIRbJLHqkr4BWWhE67JQFoitfYNodSbZUKW3SnBudt9AmxBHZqLDe8LdcU+iGpskpQFmNxpLkonkyl7OppJx5JfvOa86jUnMONTdIEpW7HNxJjc4CK1nvX+ZhsNDamVPS/FBtOqMWxkWwxSocyreyUTnb1aoSakVxLBfGkE26t4/05SqI6cs/+bx66YxqNIxDYOHTzJIT8rx6L21YXf1zGPvZWqUdHBBnOmY/Q3lMN+CmAiYeOTuFarNrYIGYx4U0cQwzUPWR+OatWf+c33Cc82n7DoBvT537NzclCDi0G3bsiRCWEiiQ3JyDo4aNgkhjNjNy5tw7uydwR3P+KhedVLwHisS5GE9qj8IZ1qCSB7APIfm41sue9yBS1SDHVEuUZ6T8MsBoZrBebfFFwbz2aRyf3a+AwiE9qKxd0HZFaPl/nAlc+rTEoJ9Y3pM4jxUBsUfvX80JsRJBg+nrQT7FJr3oVE4EcNj6MJ1KwswgGPS8Ud/fejjLGKQv3gPxawUa/tqqmubqNG8D72liufvs8m4Fc+6oagYLF6gXY3vngVIkhJGF91Iikz9h/+x5tBYObtUVvpD0BWFLlRS0sEvYR+fzKnJmawxwlUZtCykYn37ZEj1KKBDpDp+QY3NFvitwik5N3jJqirCNqwpWO1yyDIoQ+geWM+pGEfx8VTim32vIL09w7B6eJg7DJdpPz2HUaGC8c4OOsAKlAmu917pSFA==",
+                "type": "CLEARKEY",
+                "drm_license_uri": "uoxw86wzAkg+WI6tFn2gLJB8QVCFTTI/X3qCGci10jX95rFDFC6t7RaMoG1y3MtN/fO/o1st74alOTZU9oeprW/jfZuaS5ikJMQ73PVIQKsVJdh74TzOc6JvaieKalakwKEhW6v6TUzEdcVEtZAJug==",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-ar.png",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
+            },
+            {
+                "name": "FOX SPORTS opcion 2",
+                "url": "OOszE3sYC0dxqHLbQUjgXltd2oc6NF8u4GG+hqszX2hYSMXmbZO/xfhWw9Cy40Y5iegsihHuTXXieCbflod20yXR5LKXjx6slPxzLvaTDcQ=",
+                "type": "HLS",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-ar.png"
